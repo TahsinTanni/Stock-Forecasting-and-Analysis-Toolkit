@@ -76,6 +76,12 @@ A plot of **predicted vs actual closing prices** will appear at the end.
 
 ---
 
+## Huggin face Link
+```
+https://huggingface.co/spaces/tahsintajwar/DataSynthis_Job_task
+
+```
+
 ## License
 
 This project is licensed under the **MIT License**.
