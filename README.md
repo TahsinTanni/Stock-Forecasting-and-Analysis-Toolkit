@@ -76,10 +76,9 @@ A plot of **predicted vs actual closing prices** will appear at the end.
 
 ---
 
-## Huggin face Link
+## Hugging face Link
 ```
 https://huggingface.co/spaces/tahsintajwar/DataSynthis_Job_task
-
 ```
 
 ## License
